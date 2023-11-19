@@ -1,0 +1,10 @@
+label{
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.filer-job{
+    border: 1px solid rgb(204, 202, 202);
+    background-color: rgb(204, 202, 202);
+}
